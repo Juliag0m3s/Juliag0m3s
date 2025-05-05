@@ -1,18 +1,16 @@
 ## Hi there 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernanda-kipper-5958a61a9/)](https://www.linkedin.com/in/fernanda-kipper-5958a61a9/)
-[![Personal Badge](https://img.shields.io/badge/-Website-6633cc?style=flat-square&logo=Me&logoColor=white&link=https://www.fernandakipper.com/)](https://fernandakipper.com/)
+[![Linkedin Badge](https://www.linkedin.com/in/j%C3%BAlia-soares-gomes-656868363/)](https://www.linkedin.com/in/fernanda-kipper-5958a61a9/)
+
 [![Gmail Badge](https://img.shields.io/badge/-julia.s.gomes9@2aluno.senai.br-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:julia.s.gomes9@aluno.senai.br)](mailto:julia.s.gomes9@aluno.senai.br)
 
 
-## My name is Fernanda Kipper
+## Meu nome é Júlia Soares Gomes
 (Java | React JS | Typescript | Javascript | HTML | CSS ) 🚀
 - 👩‍💻 Desenvolvedor de sofware
 - 🏆 Cursando Desenvolvimento de sistemas no Senai
-- 🎥 Tech content producer, I create programming tutorials on my [YouTube Channel](https://www.youtube.com/@kipperdev) and share informative content on my [Instagram](https://www.instagram.com/kipper.dev/).
-- 🎓 Bachelor's degree in Computer Science
-- 🌐 Passionate about web development
-- 💡 Love a good challenge
+- 🎥 pode entrar em contato comigo através do [Instagram](https://www.instagram.com/julia.gomxs0/).
+
 
 <div align="left">
   
