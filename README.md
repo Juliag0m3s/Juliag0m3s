@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Linkedin Badge](https://www.linkedin.com/in/j%C3%BAlia-soares-gomes-656868363/)
+![Linkedin Badge](https://www.linkedin.com/in/j%C3%BAlia-soares-gomes-656868363/)]
 
 [![Gmail Badge](https://img.shields.io/badge/-julia.s.gomes9@2aluno.senai.br-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:julia.s.gomes9@aluno.senai.br)](mailto:julia.s.gomes9@aluno.senai.br)
 
